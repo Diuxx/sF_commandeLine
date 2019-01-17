@@ -1,6 +1,6 @@
 "# sF_commandeLine" 
 
-Application en ligne de commande permettant de créer notre projet php simplement!
+Application en ligne de commande permettant de créer un projet php simplement!
 
 Pour la création d'un nouveau projet web avec simpleFramework : sf -p %nom_du_projet%
 
